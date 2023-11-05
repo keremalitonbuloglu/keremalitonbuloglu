@@ -1,7 +1,6 @@
-### Hi there! 👋 I'm KEREM ALİ TONBULOĞLU.
+ I'm KEREM ALİ TONBULOĞLU.
 
 
-BİONU YAZ!!!  (EMOJİ İÇİN WİNDOWS TUŞU + . KULLANABİLİRSİN.)
 -Erciyes University Computer Engineering student.
 -Working as a part-time web developer and also taking backend courses with acunmedya Academy.
 
